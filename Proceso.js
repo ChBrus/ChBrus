@@ -3,7 +3,7 @@ let no = document.getElementById("DijoNo:(");
 let R = document.getElementById("Answer:^");
 let Rei = document.getElementById("Reinicio");
 
-let Texto = "Si quieres ver lo que dice la otra opción está bien, solo reinicia la página Nathy";
+let Texto = "Que estás haciendo Nath? XDXD Si quieres ver lo que había el otro botón solo reinicia la página, sip? Y antes dime que pusiste XD porfis";
 let contador = 1;
 let Decision = 0;
 
@@ -20,11 +20,11 @@ function cambioDeLugar()
         no.style.marginTop = aleatorio(1, 250) + "px";
         no.style.marginBottom = aleatorio(1, 250) + "px";
         
-        if(contador == 1)
+        if(contador == 3)
         {
-            R.textContent = "Está bien, lo entiendo, espero y te haya gustado la página...";
+            R.textContent = " Jaja perdón por moverte el botón 3 veces, pero está bien, lo entiendo, espero y te haya gustado la página, y dime que le pusiste, sip? :^";
         }
-        else if(contador == 5)
+        else if(contador%5 == 0)
         {
             alert("Oye ya le picaste muchas veces, deje de validar datos Nathy XDXD");
         }
@@ -33,7 +33,6 @@ function cambioDeLugar()
     }
     else
     {
-        R.textContent = "Poke le picaste a la opción 'No', si ya le pusiste a 'Si'? ;-;";
         Rei.textContent = Texto;
     }
 }
@@ -42,12 +41,11 @@ function Respuesta()
 {
     if(Decision == 0 || Decision == 1)
     {
-        R.textContent = "YEIIIIIIIIIIIIIIIII kaenraknlankaw Te quiero mucho Nathita :3 Bueno, puedes envíarme tú respuesta :D";
+        R.textContent = "YEIIIIIIIIIIIIIIIII kaenraknlankaw Te quiero mucho Nathita :3 Bueno, ahora dile al yo de otro tiempo lo que pusiste, sip? :^";
         Decision = 1;
     }
     else
     {
-        R.textContent = "Es chido que le hayas cambiado a 'Si', pero ya le habías puesto a 'No' ;-; AAAAAAAAAAA no entiendo ;-;";
         Rei.textContent = Texto;
     }
 }
