@@ -1,6 +1,13 @@
-var change = document.getElementById("ChangeWP");
-change.addEventListener("click", changing);
+//var webPage = document.getElementById("divChanging");
+var rm = document.getElementById("desaparecer");
 
-function changing() {
-    location.href = "BirthdayPage.html";
+rm.addEventListener("click", removeFunction);
+
+function removeFunction() {
+    //webPage.textContent = "<div></div>";
+
+    document.write("<h1>Hola</h1>");
+
+    //createNewPage();
 }
+

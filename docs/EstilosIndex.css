@@ -5,6 +5,7 @@
 
 body {
     background-color: antiquewhite;
+    text-align: center;
 }
 
 .Divisor {
@@ -17,5 +18,9 @@ body {
     border: brown 2px solid;
     font: 15px bold;
     font-family: fantasy;
-    text-align: center;
+}
+
+section {
+    padding: 10px;
+    font-size: 20px;
 }
