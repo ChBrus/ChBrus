@@ -3,5 +3,5 @@ Hi There, my nickname is ChBrus, but you can call me "Brus" if you feel better. 
 ## Skills
 | Skill | Level |
 | ------------ | ------------ |
-| English | @icon-:fa-circle: :fa-circle: :fa-circle: :fa-circle-o: :fa-circle-o: |
-| JS | :fa-circle: :fa-circle: :fa-circle-o: :fa-circle-o: :fa-circle-o: |
+| English | ⚫⚫⚫⚪⚪ |
+| JS | ⚫⚫⚪⚪⚪ |
