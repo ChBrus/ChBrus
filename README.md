@@ -1,30 +1,39 @@
 # ChBrus 🖥️
 	⌨️ Aspiring Backend Developer 🖱️👌
-I'm from Puerto Vallarta, Mexico, and my passion lies in becoming a backend developer. Beyond coding, you'll often find me playing the piano or ukulele, hitting the gym, or diving deeper into the world of technology. Watching programming videos has become a cherished hobby of mine.
+I’m Christopher Bruno Carrillo Pulido, but online you’ll find me as ChBrus. I’m from Puerto Vallarta, Mexico, and currently studying Software Technology Engineering at FIME, UANL.  
+I’m in my second semester and working towards graduating as an engineer specialized in business logic — the Back-end. My learning journey has been fueled by constant curiosity and platforms like Platzi.  
+
+My main focus is building robust, well-structured backend solutions while keeping code maintainable and scalable. I enjoy exploring new technologies and applying them to real projects.
+
+---
 
 ## Experience
-### Dual Education Internship `2023 - 2024`
-During my dual education at DIF, I honed my skills as a developer while still in high school. Here are a few projects I worked on:
+### Dual Education Internship — DIF Puerto Vallarta `2023 - 2024`
+Worked as a Programming Technician during my dual education program, gaining hands-on experience in both technical and customer-facing roles.  
 
-#### Formulario Caritas - Satisfaction Survey
-As the sole leader of the project, "Formulario Caritas" was a customer satisfaction survey aimed at gathering feedback from clients. It served as my initiation into project leadership and collaborative development. Key learnings from this project include:
+**Key contributions:**
+- Developed internal web applications such as:
+  - **Customer Satisfaction Survey**: PHP Vanilla + Composer integration for Excel-based chart generation.
+  - **Role-based Activity Calendar**: Multi-user access with area-specific permissions.
+- Performed maintenance and cleanup of computer systems.
+- Managed inventory and device records in Excel.
+- Provided bilingual customer support (Spanish/English).
 
-- **Modularization**: I learned to modularize my files more effectively, enhancing code organization and maintainability.
-- **Frontend-Backend Interaction**: I devised methods to fetch backend information from the frontend without relying on any frameworks, thereby expanding my understanding of frontend-backend interaction.
-- **Unit Testing**: I utilized a single framework for unit testing, gaining practical experience in ensuring code quality through testing.
-- **Team Collaboration**: Despite being the sole leader, I delegated tasks to my only teammate, fostering collaboration and teamwork dynamics.
+### RZ Motos — Full-Stack Web Developer `2025 - Present`
+Lead developer for a production-ready website serving as a catalog for motorcycles, accessories, and spare parts.  
 
-This project marked the beginning of my journey into team-based development, providing valuable insights into project management and software engineering practices.
+**Key contributions:**
+- Built the platform using **Laravel 12**, HTML, CSS, JavaScript (vanilla), and selected libraries.
+- Designed and implemented a complete **admin dashboard** for managing products, categories, and brands.
+- Developed custom functionalities such as lazy-loaded images, search filters, and brand-specific product pages.
+- Managed deployment and optimization for a live environment.  
+🔗 [rzmotos.com](https://rzmotos.com)
 
+---
 
 ## Skills
-- HTML
-- CSS
-- JavaScript
-- PHP
-- Composer
-- Node.js (🆕)
+**Languages:** HTML, CSS, JavaScript, PHP
+**Frameworks & Libraries:** Laravel, Bootstrap, PHPUnit  
+**Tools & Others:** Node.js, Composer, Git, GitHub, MySQL
 
-### Frameworks
-- Bootstrap
-- PHPUnit
+---
